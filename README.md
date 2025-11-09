@@ -7,15 +7,15 @@ https://pragyasharma86.wixsite.com/mysite
 <br>
 <br>
 # 📂Features
-Home page with welcome message and brand tagline.
+• Home page with welcome message and brand tagline.
 <br>
-Sections for Events, Achievements, Creative Corner (student submissions) and Alumni Interactions.
+• Sections for Events, Achievements, Creative Corner (student submissions) and Alumni Interactions.
 <br>
-Newsletter subscription form to capture emails and build student/community engagement.
+• Newsletter subscription form to capture emails and build student/community engagement.
 <br>
-Contact information and social-media links for outreach.
+• Contact information and social-media links for outreach.
 <br>
-Visual-rich design with imagery from campus life and creative works.
+• Visual-rich design with imagery from campus life and creative works by students of college.
 <br>
 <br>
 # 📈Digital Marketing Focus
