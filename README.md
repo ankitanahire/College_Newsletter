@@ -21,13 +21,13 @@ Visual-rich design with imagery from campus life and creative works.
 # 📈Digital Marketing Focus
 This project applies key digital marketing principles such as:
 <br>
-Search Engine Optimization (SEO) for better visibility.
+1.Search Engine Optimization (SEO) for better visibility.
 <br>
-Content Strategy to engage visitors with relevant posts.
+2.Content Strategy to engage visitors with relevant posts.
 <br>
-Visual Branding with consistent colors, typography, and layout.
+3.Visual Branding with consistent colors, typography, and layout.
 <br>
-Audience Engagement via calls-to-action and subscription options.
+4.Audience Engagement via calls-to-action and subscription options.
 <br>
 <br>
 # 👩‍💻Author
