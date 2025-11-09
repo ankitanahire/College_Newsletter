@@ -3,8 +3,14 @@ A College Newsletter website designed on Wix.com for my Digital Marketing projec
 
 
 
+
+
 # Live Website
 https://pragyasharma86.wixsite.com/mysite
+
+
+
+
 
 # Features
 Home page with welcome message and brand tagline.
@@ -16,3 +22,16 @@ Newsletter subscription form to capture emails and build student/community engag
 Contact information and social-media links for outreach.
 <br>
 Visual-rich design with imagery from campus life and creative works.
+
+
+
+
+
+# Author
+Name: Ankita Nahire
+<br>
+      Bhoomi Shekapure
+Project: College Newsletter Website
+Course: Digital Marketing
+Year: 2025
+Platform: Wix
